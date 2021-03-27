@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5de0a435-4933-4a95-bd06-3e21b64181c1" name="Default Changelist" comment="" />
+    <list default="true" id="5de0a435-4933-4a95-bd06-3e21b64181c1" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/icons/icon.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/icons/icon.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -20,11 +24,16 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="dart.analysis.tool.window.visible" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../node-red-contrib-contribgen" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/icons" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\project\node-red-contrib-newsapi\icons" />
+    </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -36,6 +45,7 @@
       <updated>1615848309182</updated>
       <workItem from="1615848310892" duration="1070000" />
       <workItem from="1616849817819" duration="129000" />
+      <workItem from="1616851683987" duration="101000" />
     </task>
     <task id="LOCAL-00001" summary="bug fix">
       <created>1616849880412</created>
@@ -44,7 +54,14 @@
       <option name="project" value="LOCAL" />
       <updated>1616849880412</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="bug fix">
+      <created>1616851718480</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1616851718480</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
