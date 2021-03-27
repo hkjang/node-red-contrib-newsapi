@@ -1,6 +1,6 @@
 {
   "name": "node-red-contrib-newsapi",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Node-RED node for newsapi",
   "main": "node.js",
   "scripts": {
@@ -16,6 +16,14 @@
     "node-red",
     "newsapi"
   ],
+  "homepage": "https://github.com/hkjang/node-red-contrib-newsapi#readme",
+  "bugs": {
+    "url": "https://github.com/hkjang/node-red-contrib-newsapi/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hkjang/node-red-contrib-newsapi.git"
+  },
   "dependencies": {
     "newsapi": "^2.4.1"
   },
